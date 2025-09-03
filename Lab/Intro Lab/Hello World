@@ -1,0 +1,20 @@
+/* 
+ * File:   main.cpp
+ * Author: Dominic Vega
+ * Created on September 2, 2025 10:19 PM
+ * Purpose:  Develop a Template to be copied
+ *           for all future programs in CSC/CIS 17A
+ */
+
+//System Libraries
+#include <iostream>   //Input/Output Library
+using namespace std;  //STD Name-space where Library is compiled
+
+//Code Begins Execution Here with function main
+int main(int argc, char** argv) {
+
+    //Display the results
+    cout<<"Hello World";
+
+    return 0;
+}
